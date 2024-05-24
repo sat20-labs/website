@@ -1599,6 +1599,9 @@ label {
 .choose-icon-two img {
 	height: 78px;
 }
+.choose-icon-two:hover img {
+	height: 78px;
+}
 .choose-item-two .choose-content {
 	width: 77%;
 }
@@ -2095,8 +2098,8 @@ label {
 	margin-bottom: 40px;
 }
 .document-content .document-list li {
-	font-size: 18px;
-	color: #fff;
+	font-size: 15px;
+	color: #A4B4C3;
 	position: relative;
 	margin-bottom: 15px;
 	padding-left: 15px;
